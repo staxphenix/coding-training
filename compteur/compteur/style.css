@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    font-size: 30px;
+    background-color: black;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#count {
+    font-size: 60px;
+}
+
+button {
+    font-size: 60px;
+    padding: 0px; 
+    margin: 50px;
+    border: none;
+    background: none;
+    color: white;
+    width: 40px;
+}
