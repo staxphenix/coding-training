@@ -23,3 +23,9 @@ button {
     color: white;
     width: 40px;
 }
+
+#message {
+    position: absolute;
+    top: 60%;
+    font-size: 20px;
+}
