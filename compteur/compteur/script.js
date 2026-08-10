@@ -22,3 +22,4 @@ reset.addEventListener("click", function() {
     countnumber = 0
     count.textContent = countnumber
 })
+console.log("pc gamer")
